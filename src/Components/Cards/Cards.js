@@ -31,7 +31,7 @@ export default function Cards() {
 
         <h2 className='view-details-btn'>
           {' '}
-          <a src='#'>VIEW DETAILS</a>{' '}
+          <a href='#'>VIEW DETAILS</a>{' '}
         </h2>
       </div>
       <div className='full-card card-2'>
@@ -59,7 +59,7 @@ export default function Cards() {
         </div>
         <h2 className='view-details-btn'>
           {' '}
-          <a src='#'>VIEW DETAILS</a>{' '}
+          <a href='#'>VIEW DETAILS</a>{' '}
         </h2>
       </div>
       <div className='full-card card-3'>
@@ -76,7 +76,7 @@ export default function Cards() {
         </div>
         <h2 className='view-details-btn'>
           {' '}
-          <a src='#'>VIEW DETAILS</a>{' '}
+          <a href='#'>VIEW DETAILS</a>{' '}
         </h2>
       </div>
       <div className='full-card card-4'>
@@ -100,7 +100,7 @@ export default function Cards() {
         </div>
         <h2 className='view-details-btn'>
           {' '}
-          <a src='#'>VIEW DETAILS</a>{' '}
+          <a href='#'>VIEW DETAILS</a>{' '}
         </h2>
       </div>
       <div className='full-card card-5'>
@@ -118,7 +118,7 @@ export default function Cards() {
         </div>
         <h2 className='view-details-btn'>
           {' '}
-          <a src='#'>VIEW DETAILS</a>{' '}
+          <a href='#'>VIEW DETAILS</a>{' '}
         </h2>
       </div>
       <div className='full-card card-6'>
@@ -159,7 +159,7 @@ export default function Cards() {
         </div>
         <h2 className='view-details-btn'>
           {' '}
-          <a src='#'>VIEW DETAILS</a>{' '}
+          <a href='#'>VIEW DETAILS</a>{' '}
         </h2>
       </div>
       <div className='full-card card-8'>
@@ -183,7 +183,7 @@ export default function Cards() {
         </div>
         <h2 className='view-details-btn'>
           {' '}
-          <a src='#'>VIEW DETAILS</a>{' '}
+          <a href='#'>VIEW DETAILS</a>{' '}
         </h2>
       </div>
     </div>
